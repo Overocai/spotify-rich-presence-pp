@@ -8,7 +8,7 @@
 
 ---
 
-![Preview](<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/b156d3b2-5c69-4dd2-93ec-752f3e836f0f" />)
+(<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/b156d3b2-5c69-4dd2-93ec-752f3e836f0f" />)
 
 ## Features
 
