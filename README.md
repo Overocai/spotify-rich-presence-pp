@@ -8,7 +8,7 @@
 
 ---
 
-![Preview](assets/preview.gif)
+![Preview](assets/vizualizer.gif)
 
 ## Features
 
