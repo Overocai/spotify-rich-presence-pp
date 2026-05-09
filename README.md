@@ -8,9 +8,7 @@
 
 ---
 
-<!-- Drop a screenshot or GIF of the plugin here. Example:
 ![Preview](assets/preview.gif)
--->
 
 ## Features
 
